@@ -1,11 +1,11 @@
 {
   "id": "pocopico.v9fs",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/v9fs/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/john-pierre/rp-ext/refs/heads/main/v9fs/rpext-index.json",
   "info": {
     "name": "v9fs",
     "description": "Adds  Support",
-    "author_url": "https://github.com/pocopico",
-    "packer_url": "https://github.com/pocopico/rp-ext/tree/main/v9fs",
+    "author_url": "https://github.com/john-pierre",
+    "packer_url": "https://github.com/john-pierre/rp-ext/tree/main/v9fs",
     "help_url": "<todo>"
   },
   "releases": {
@@ -46,6 +46,8 @@
     "dva3221_42218": "https://raw.githubusercontent.com/pocopico/rp-ext/master/v9fs/releases/dva3221_42218.json",
     "dva3221_42621": "https://raw.githubusercontent.com/pocopico/rp-ext/master/v9fs/releases/dva3221_42218.json",
     "dva3221_42661": "https://raw.githubusercontent.com/pocopico/rp-ext/master/v9fs/releases/dva3221_42218.json",
+    "dva3221_64570": "https://raw.githubusercontent.com/pocopico/rp-ext/master/v9fs/releases/dva3221_42218.json",
+    "dva3221_69057": "https://raw.githubusercontent.com/pocopico/rp-ext/master/v9fs/releases/dva3221_42218.json",
     "dva1622_42661": "https://raw.githubusercontent.com/pocopico/rp-ext/master/v9fs/releases/dva1622_42218.json",
     "dva1622_42621": "https://raw.githubusercontent.com/pocopico/rp-ext/master/v9fs/releases/dva1622_42218.json",
     "dva1622_42951": "https://raw.githubusercontent.com/pocopico/rp-ext/master/v9fs/releases/dva1622_42218.json",
